@@ -42,7 +42,7 @@ Email : bagasmahda@student.ub.ac.id
 2. git pull <br>
    `git pull <name> <branch>` digunakan untuk mendapat update dari repository yang kita hubungkan dengan remote. Sebelum menggunakan `git pull`, kita dapat menggunakan `git fetch` untuk mengambil perubahan dari repository.
 3. git push <br>
-   `git pull <name> <branch>` digunakan untuk menyimpan perkerjaan kita dan kita kirim ke repository yang kita hubungkan dengan remote. Sebelum menggunakn `git pull`, kita perlu melakukan `git add` dan `git commit`.
+   `git push <name> <branch>` digunakan untuk menyimpan perkerjaan kita dan kita kirim ke repository yang kita hubungkan dengan remote. Sebelum menggunakn `git pull`, kita perlu melakukan `git add` dan `git commit`.
 4. git clone <br>
    `git clone <url>` digunakan untuk mendownload atau meng-copy repository ke dalam pc/laptop kita.
 5. git branch <br>
