@@ -82,7 +82,6 @@ footer {
 }
 
 footer .desc {
-  margin-bottom: 4rem;
   text-align: justify;
   font-size: 1.2rem;
   -moz-transition: height 0.2s;
@@ -108,6 +107,7 @@ footer button#collapse-button {
   border: none;
   background-color: #d9d9d9;
   cursor: pointer;
+  margin-top: 2rem;
 }
 
 .collapse #collapse-button .collapse-icon {
