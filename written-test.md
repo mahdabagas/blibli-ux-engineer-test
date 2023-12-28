@@ -27,21 +27,23 @@ Email : bagasmahda@student.ub.ac.id
 4. animation-iteration <br>
    `animation-iteration` digunakan untuk menentukan berapa kali animasi akan diulang. Nilai `infinite` akan membuat animasi dijalankan berkali-kali (selamanya).
 5. animation-direction <br>
-   `animation-direction` digunakan untuk menentukan arah animasi seperti kedepan, kebelakang, atau bergantian. 
+   `animation-direction` digunakan untuk menentukan arah animasi seperti kedepan, kebelakang, atau bergantian.
 
 ## 4. Lazy Loading
+
 <p align="justify">
     Lazy loading merupakan teknik untuk menunda inisialisasi suatu elemen atau objek, hingga objek tersebut diperlukan oleh pengguna. Teknik ini meningkatkan performa dan mempercepat waktu membuka halaman website. Contoh penggunaanya, elemen gambar hanya akan dimuat saat pengguna men-scroll elemen tesebut dihalaman website. 
 </p>
 
 ## 5. Git Commands
-1. git remote
+
+1. git remote <br>
    `git remote add <name> <url>` digunakan untuk mengakses repository pada github, gitlab, dll. Dengan ini, kita bisa keep update dan terhubung repository tersebut di laptop/pc kita.
-2. git pull
+2. git pull <br>
    `git pull <name> <branch>` digunakan untuk mendapat update dari repository yang kita hubungkan dengan remote. Sebelum menggunakan `git pull`, kita dapat menggunakan `git fetch` untuk mengambil perubahan dari repository.
-3. git push
+3. git push <br>
    `git pull <name> <branch>` digunakan untuk menyimpan perkerjaan kita dan kita kirim ke repository yang kita hubungkan dengan remote. Sebelum menggunakn `git pull`, kita perlu melakukan `git add` dan `git commit`.
-4. git clone
+4. git clone <br>
    `git clone <url>` digunakan untuk mendownload atau meng-copy repository ke dalam pc/laptop kita.
-5. git branch
+5. git branch <br>
    `git branch <nama_branch>` digunakan untuk membuat branch atau cabang lain agar kode utama tidak terganggu.
